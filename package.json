@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "serve . -l 5173",
+    "start": "serve . -l 5173",
+    "build": "echo Static site: open index.html or run npm run dev"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

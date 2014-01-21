@@ -15,8 +15,8 @@ Hi, I’m **Raymond**.
 
 ## This repository
 
-- **Live-style portfolio UI:** React + Vite + TypeScript + Tailwind (see `src/`).
-- **Notes & copy:** `MyPortfolio/README.md`
+- **Portfolio UI:** single-page `index.html` (glass / AI-accent header, **Three.js** hero, curated **Unsplash** imagery).
+- **Optional:** add a Vite + React `src/` later if you want a component build.
 
 ### Run locally
 
@@ -24,6 +24,8 @@ Hi, I’m **Raymond**.
 npm install
 npm run dev
 ```
+
+Then open **http://localhost:5173** (serves the project root, including `index.html`).
 
 ### Build
 
