@@ -1,2 +1,3 @@
 React dashboard system
 Node API backend
+AI chatbot integration
