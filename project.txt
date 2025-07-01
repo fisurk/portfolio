@@ -2,3 +2,4 @@ React dashboard system
 Node API backend
 AI chatbot integration
 Next.js SaaS platform
+3D AI interface
